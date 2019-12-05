@@ -1,2 +1,2 @@
 # CRTprog1
-CRT1stdep
+CRT training repository
